@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Darts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world2!</string>
+    
+    <string name="waiting_adk">"Please connect Darts board"</string>
+    <string name="clear_button">"Clear"</string>
+</resources>
